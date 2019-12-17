@@ -4,8 +4,6 @@
 # https://aka.ms/yaml
 
 variables:
-  AlmOctaneConnection1: 'Daniel1'
-  AlmOctaneConnection1Workspaces: '6001'
   AlmOctaneConnection2: 'Moshe1'
   AlmOctaneConnection2Workspaces: '1002,2001'
   InjectAlmOctaneTasks: 'true'
