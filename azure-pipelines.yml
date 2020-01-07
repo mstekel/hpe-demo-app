@@ -9,7 +9,6 @@ variables:
   AlmOctaneConnection1Workspaces: '6001'
   ALMOctaneLogLevel: 'debug'
   GithubRepositoryConnection: 'mstekel'
-  system.debug: 'true'
 
 jobs:
 - job: AlmOctanePipelineStart
