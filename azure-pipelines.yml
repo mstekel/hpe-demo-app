@@ -4,10 +4,11 @@
 # https://aka.ms/yaml
 
 variables:
-  AlmOctaneConnection2: 'Moshe1'
-  AlmOctaneConnection2Workspaces: '1002,2001'
   InjectAlmOctaneTasks: 'true'
+  AlmOctaneConnection1: 'OctaneTest'
+  AlmOctaneConnection1Workspaces: '6001'
   ALMOctaneLogLevel: 'debug'
+  GithubRepositoryConnection: 'GitHub connection'
 
 jobs:
 - job: AlmOctanePipelineStart
