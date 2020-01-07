@@ -8,7 +8,7 @@ variables:
   AlmOctaneConnection1: 'OctaneTest'
   AlmOctaneConnection1Workspaces: '6001'
   ALMOctaneLogLevel: 'debug'
-  GithubRepositoryConnection: 'mstekel'
+  GithubRepositoryConnection: 'github.com_mstekel'
   system.debug: 'true'
 
 jobs:
