@@ -5,8 +5,8 @@
 
 variables:
   InjectAlmOctaneTasks: 'true'
-  AlmOctaneConnection1: 'qa53'
-  AlmOctaneConnection1Workspaces: '1002,1003'
+  AlmOctaneConnection33: 'qa53'
+  AlmOctaneConnection33Workspaces: '1002'
   ALMOctaneLogLevel: 'debug'
   system.debug: 'true'
   GithubRepositoryConnection: 'mstekel'
